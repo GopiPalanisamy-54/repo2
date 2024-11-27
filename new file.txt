@@ -2,4 +2,6 @@ changes added
 
 
 new feature(2)
+new bug
+
 
